@@ -1,0 +1,24 @@
+{
+  "name": "project_allison",
+  "version": "1.0.0",
+  "description": "AI Twitter bot that posts like allison",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AI",
+    "Node",
+    "Python",
+    "Twitter",
+    "Bot",
+    "GPT-2"
+  ],
+  "author": "Lucas Machi",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^4.0.1",
+    "prompt": "^1.0.0",
+    "twitter": "^1.7.1"
+  }
+}

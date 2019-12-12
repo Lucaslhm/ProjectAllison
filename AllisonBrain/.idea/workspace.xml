@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bd447b5-68e9-4b87-8bf0-d934c306189d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1UhpkksnFeFSJUMI3bW2stUV5PU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Python3" type="PythonConfigurationType" factoryName="Python">
+      <module name="AllisonBrain" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/initializeModel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bd447b5-68e9-4b87-8bf0-d934c306189d" name="Default Changelist" comment="" />
+      <created>1575818827155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575818827155</updated>
+      <workItem from="1575818839515" duration="6747000" />
+      <workItem from="1576098832568" duration="201000" />
+      <workItem from="1576103875392" duration="152000" />
+      <workItem from="1576105513933" duration="862000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576116429930">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="184" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.828@0.23.1440.828" timestamp="1576116429930" />
+    <state x="184" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.829@0.23.1440.829" timestamp="1576104019777" />
+    <state x="184" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.830@0.23.1440.830" timestamp="1576105591943" />
+    <state x="184" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.831@0.23.1440.831" timestamp="1575819086179" />
+    <state x="445" y="247" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575837140509">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="445" y="247" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.828@0.23.1440.828" timestamp="1575837140509" />
+    <state x="457" y="229" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1575819073746">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="457" y="229" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.831@0.23.1440.831" timestamp="1575819073746" />
+    <state width="1358" height="291" key="GridCell.Tab.0.bottom" timestamp="1576116434742">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1358" height="291" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1576116434742" />
+    <state width="1358" height="291" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1576103967000" />
+    <state width="1358" height="291" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1576105593428" />
+    <state width="1358" height="202" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1575819097747" />
+    <state width="1358" height="291" key="GridCell.Tab.0.center" timestamp="1576116434741">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1358" height="291" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1576116434741" />
+    <state width="1358" height="291" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1576103966999" />
+    <state width="1358" height="291" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1576105593427" />
+    <state width="1358" height="202" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1575819097746" />
+    <state width="1358" height="291" key="GridCell.Tab.0.left" timestamp="1576116434741">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1358" height="291" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1576116434741" />
+    <state width="1358" height="291" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1576103966998" />
+    <state width="1358" height="291" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1576105593426" />
+    <state width="1358" height="202" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1575819097745" />
+    <state width="1358" height="291" key="GridCell.Tab.0.right" timestamp="1576116434741">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1358" height="291" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1576116434741" />
+    <state width="1358" height="291" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1576103966999" />
+    <state width="1358" height="291" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1576105593427" />
+    <state width="1358" height="202" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1575819097747" />
+    <state x="229" y="77" key="SettingsEditor" timestamp="1576098981651">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="229" y="77" key="SettingsEditor/0.23.1440.829@0.23.1440.829" timestamp="1576098981651" />
+    <state x="229" y="77" key="SettingsEditor/0.23.1440.831@0.23.1440.831" timestamp="1575818959607" />
+    <state x="413" y="270" key="com.intellij.ide.util.TipDialog" timestamp="1576105521161">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="413" y="270" key="com.intellij.ide.util.TipDialog/0.23.1440.829@0.23.1440.829" timestamp="1576103883463" />
+    <state x="413" y="270" key="com.intellij.ide.util.TipDialog/0.23.1440.830@0.23.1440.830" timestamp="1576105521161" />
+    <state x="413" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.831@0.23.1440.831" timestamp="1575818840184" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AllisonBrain$Unnamed.coverage" NAME="Python3 Coverage Results" MODIFIED="1575838123894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/AllisonBrain$Python3.coverage" NAME="Python3 Coverage Results" MODIFIED="1576105561569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+  </component>
+</project>
