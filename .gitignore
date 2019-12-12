@@ -102,3 +102,15 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Authentication Files
+auth.json
+
+#Local Model Files
+allison.txt
+checkpoint/
+gen/
+models/
+samples/
+
+.DS_Store
