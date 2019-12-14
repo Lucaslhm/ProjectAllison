@@ -114,3 +114,6 @@ models/
 samples/
 
 .DS_Store
+/.idea/
+/AllisonBrain/.idea/
+/AllisonBrain/venv/
